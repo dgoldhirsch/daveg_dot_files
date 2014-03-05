@@ -1,0 +1,7 @@
+# ignore cucumber's rerun file
+/rerun.txt
+.DS_Store*
+.tm_properties
+tags
+.idea # RubyMine
+
